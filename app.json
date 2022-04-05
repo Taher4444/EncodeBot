@@ -11,7 +11,7 @@
   ],
   "success_url": "/",
   "website": "https://github.com/HeimanPictures/HeimanPictures",
-  "repository": "https://github.com/HeimanPictures/video-encoder-bot",
+  "repository": "https://github.com/Taher4444/EncodeBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
